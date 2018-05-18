@@ -1,6 +1,10 @@
 #!/usr/bin/python3
 
 def print_alphabt():
+    """
+    Prints alphabets (except for q and e)
+    in lowercase, not followed by a new line
+    """
     start = 97
 
     while (start <= 122):
