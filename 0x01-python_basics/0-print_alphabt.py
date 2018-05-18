@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+
 def print_alphabt():
     """
     Prints alphabets (except for q and e)
