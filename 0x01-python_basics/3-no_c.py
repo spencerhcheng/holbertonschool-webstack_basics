@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+
 def no_c(str):
     """
     Removes all c and C within
