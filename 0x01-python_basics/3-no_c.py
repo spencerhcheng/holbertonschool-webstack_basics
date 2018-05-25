@@ -15,6 +15,3 @@ def no_c(str):
         else:
             new_str += c
     return new_str
-
-if __name__ == "__main__":
-    no_c(str)
