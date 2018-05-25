@@ -48,6 +48,6 @@ class Square(object):
 
         else:
             for x in range(self.__size):
-                for y in range(self.__size):
+                for y in range(self.__size - 1):
                     print('#', end="")
                 print('#')
