@@ -14,6 +14,3 @@ def print_alphabt():
             continue
         print(chr(start), end="")
         start += 1
-
-if __name__ == "__main__":
-    print_alphabt()
