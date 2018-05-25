@@ -12,5 +12,5 @@ def print_alphabt():
         if start == 101 or start == 113:
             start += 1
             continue
-        print(chr(start), end="")
+        print('{}'.format(chr(start)), end="")
         start += 1
