@@ -1,0 +1,12 @@
+>>> add_integer = __import__('0-add_integer').add_integer
+
+# a = float, b = int
+>>> add_integer(6.66, 2)
+8
+
+# a = int, b = float
+>>> add_integer(3, 3.33)
+6
+
+# a = string, b = int
+>>> add_integer("Holberton", 3)
